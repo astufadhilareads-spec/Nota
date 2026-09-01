@@ -1,0 +1,7 @@
+{
+  "name": "Nota Keluar & Masuk Harian",
+  "description": "Aplikasi interaktif pencatatan Nota Keluar dan Masuk harian dengan preview real-time, cetak/unduh PDF, laporan mingguan, bulanan, dan dashboard rekapan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
